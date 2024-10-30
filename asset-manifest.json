@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.af2ba9b5.css",
-    "main.js": "/static/js/main.aaae0e64.js",
-    "static/js/453.cffb0f5d.chunk.js": "/static/js/453.cffb0f5d.chunk.js",
-    "index.html": "/index.html",
-    "main.af2ba9b5.css.map": "/static/css/main.af2ba9b5.css.map",
-    "main.aaae0e64.js.map": "/static/js/main.aaae0e64.js.map",
-    "453.cffb0f5d.chunk.js.map": "/static/js/453.cffb0f5d.chunk.js.map"
+    "main.css": "/react-fiber/static/css/main.af2ba9b5.css",
+    "main.js": "/react-fiber/static/js/main.17890415.js",
+    "static/js/453.cffb0f5d.chunk.js": "/react-fiber/static/js/453.cffb0f5d.chunk.js",
+    "index.html": "/react-fiber/index.html",
+    "main.af2ba9b5.css.map": "/react-fiber/static/css/main.af2ba9b5.css.map",
+    "main.17890415.js.map": "/react-fiber/static/js/main.17890415.js.map",
+    "453.cffb0f5d.chunk.js.map": "/react-fiber/static/js/453.cffb0f5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af2ba9b5.css",
-    "static/js/main.aaae0e64.js"
+    "static/js/main.17890415.js"
   ]
 }
